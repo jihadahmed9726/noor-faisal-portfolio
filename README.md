@@ -2,7 +2,7 @@
 
 **Live portfolio:** https://jihadahmed9726.github.io/noor-faisal-portfolio/
 
-A mobile-friendly, single-page portfolio featuring three clearly labelled fictional business website concepts:
+A responsive, single-page portfolio featuring three clearly labelled fictional business website concepts:
 - BrightNest Cleaning
 - Oakstone Construction
 - GreenHaven Landscapes
